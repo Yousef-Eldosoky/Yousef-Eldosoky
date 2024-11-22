@@ -41,8 +41,8 @@ For more, check out my repositories below!
 
 ---
 
-## 📈 GitLab Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Eldosoky&layout=pie)](https://github.com/Yousef-Eldosoky) 
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yousef-Eldosoky)](https://github.com/Yousef-Eldosoky) 
 
 ---
 
