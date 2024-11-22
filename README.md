@@ -42,8 +42,7 @@ For more, check out my repositories below!
 ---
 
 ## 📈 GitLab Stats
-[My GitHab Activity Graph](https://gitub.com/Yousef-Eldosoky)  
-*Explore my contributions and repositories!*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Eldosoky&layout=pie)](https://github.com/Yousef-Eldosoky) 
 
 ---
 
