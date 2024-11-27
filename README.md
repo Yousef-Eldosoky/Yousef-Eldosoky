@@ -51,7 +51,7 @@ I'm always open to collaborating on exciting projects and learning from the comm
 
 📧 **Email**: eldosoky@yousefsite.com  
 🌐 **Website**: [Yousef's Site](https://yousefsite.com)  
-📱 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yousef-eldosoky)
+📱 **LinkedIn**: [Yousef Eldosoky](https://linkedin.com/in/Eldosoky)
 
 ---
 
